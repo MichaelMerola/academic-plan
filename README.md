@@ -1,4 +1,4 @@
-# CU-Boulder
+# CU Boulder 2016-2020
 Personal coursework and schedule for University of Colorado Boulder
 * [Classes](#classes)
   * [2016-2017](#2016-2017)
@@ -44,40 +44,40 @@ Personal coursework and schedule for University of Colorado Boulder
 |                                             | 14  |                                                                 | 13  |
 
 ### 2018-2019
-|                Summer                       | Hrs |                     *Spring Semester NON-ABROAD*                | Hrs |
-|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| HUEN 3100 - Humanities for Engineers        | 3   | CSCI CORE                                                       | 4   |
-|                                             |     | CSCI CORE                                                       | 3   |
-|                                             |     | *ASTR 1040*                                                     | 4   |
-|                                             |     | *BUSM 2020 - Finance/Accounting*                                | 3   |
-|                                             |     |                                                                 |     |
-|                                             | 3   |                                                                 | 14  |
+|                Summer                       | Hrs |
+|---------------------------------------------|:---:|
+| HUEN 3100 - Humanities for Engineers        | 3   |
+|                                             |     | 
+|                                             |     | 
+|                                             |     | 
+|                                             |     | 
+|                                             | 3   | 
 
-|                Fall Semester                | Hrs |                         *Spring Semester ABROAD*                | Hrs |
+|                Fall Semester                | Hrs |                         Spring Semester *@CU* .                 | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3753 - Operating Systems                                   | 4   |
-| CSCI 3010 – Programming Projects            | 3   | CSCI 4273 – Network Systems                                     | 4   |
-| MATH 2130 - Linear Algebra                  | 3   | xxxx 1000 - H/SS                                                | 3   |
-| ASTR 1030 - Intro to Astronomy              | 4   | xxxx 3000 - H/SS                                                | 3   |
+| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI CORE                                                       | 4   |
+| CSCI 3010 – Programming Projects            | 3   | CSCI CORE                                                       | 3   |
+| MATH 2130 - Linear Algebra                  | 3   | ASTR 1040 - Advanced Astronomy                                  | 4   |
+| ASTR 1030 - Intro to Astronomy              | 4   | BUSM 2020 - Finance/Accounting                                  | 3   |
 | *BUSM 2020 - Finance/Accounting*            | W   |                                                                 |     |
 |                                             | 14  |                                                                 | 14  |
 
 ### 2019-2020
-|                *Summer at CU*               | Hrs |                     *Summer ABROAD*                             | Hrs |
-|---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| *BUSM 2020 - Finance/Accounting*            | 3   | xxxx 1000 - H/SS                                                | 3   |
-|                                             |     | xxxx 3000 - H/SS                                                | 3   |
-|                                             |     |                                                                 |     |
-|                                             | 3   |                                                                 |   |
+|                Summer *ABROAD*              | Hrs |
+|---------------------------------------------|:---:|
+| xxxx 1000 - H/SS                            | 3   |
+| xxxx 3000 - H/SS                            | 3   |
+|                                             |     |                 
+|                                             | 6   |                          
 
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
 | CSCI CORE - #5                              | 3   | CSCI CORE - #6                                                  | 4   |
 | CSCI Elective                               | 3   | CSCI Elective                                                   | 3   |
-| *ASTR 1040 - Advanced Astronomy*            | 4   | CSCI Elective                                                   | 3   |
-| BUSM 3000 - Global Business                 | 3   | BUSM 4000 - Business Development Plan                           | 3   |
-|                                             | 17  |                                                                 | 17  |
+| BUSM 3000 - Global Business                 | 3   | CSCI Elective                                                   | 3   |
+|                                             |     | BUSM 4000 - Business Development Plan                           | 3   |
+|                                             | 13  |                                                                 | 17  |
 
 * **College Total**: 100
 * **HS Transfer Credits**: 22
