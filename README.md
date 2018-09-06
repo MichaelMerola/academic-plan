@@ -37,7 +37,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 2400 – Computer Systems                | 4   | CSCI 3104 – Algorithms                                          | 4   |
 | CSCI 2824 – Discrete Structures             | 3   | CSCI 3022 – Data Science                                        | 3   |
-| xxCSCI 2270 – Linear Algebra                | W   | CSCI 3002 – Human-Centered Computing                            | 3   |
+| *CSCI 2270 – Linear Algebra*                | W   | CSCI 3002 – Human-Centered Computing                            | 3   |
 | PHYS 1140 – Experimental Physics Lab        | 1   | BUSM 2010 - Marketing/Management                                | 3   |                     
 | MUEL 3642 - History of Jazz                 | 3   |                                                                 |     |
 | CSCI 3308 – Software Dev & Tools            | 3   |                                                                 |     |
@@ -47,13 +47,8 @@ Personal coursework and schedule for University of Colorado Boulder
 |                Summer                       | Hrs |
 |---------------------------------------------|:---:|
 | HUEN 3100 - Humanities for Engineers        | 3   |
-|                                             |     | 
-|                                             |     | 
-|                                             |     | 
-|                                             |     | 
-|                                             | 3   | 
 
-|                Fall Semester                | Hrs |                         Spring Semester *@CU* .                 | Hrs |
+|                Fall Semester                | Hrs |                         Spring Semester *@CU*                   | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI CORE                                                       | 4   |
 | CSCI 3010 – Programming Projects            | 3   | CSCI CORE                                                       | 3   |
@@ -66,8 +61,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |                Summer *ABROAD*              | Hrs |
 |---------------------------------------------|:---:|
 | xxxx 1000 - H/SS                            | 3   |
-| xxxx 3000 - H/SS                            | 3   |
-|                                             |     |                 
+| xxxx 3000 - H/SS                            | 3   |               
 |                                             | 6   |                          
 
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
@@ -219,4 +213,4 @@ Three credits of approved writing:
 Satisfying all the other course requirements as described above typically adds up to a minimum of 116 credit hours, the exact number depending on specific courses selected and/or transfer credit. Students take “free electives” to reach the required minimum 128 total credits. All courses are considered acceptable free electives; however, co-op work experience does not count towards these 128 hours, nor does any other work experience.
 
 ## Theoretical Standing
-If all goes according to plan, I'll graduate with a B.S. in Computer Science and a certificate in Cognitive Science.
+If all goes according to plan, I'll graduate with a B.S. in Computer Science and a Minor in Business.
