@@ -46,12 +46,12 @@ Personal coursework and schedule for University of Colorado Boulder
 ### 2018-2019
 |                Summer                       | Hrs |                     *Spring Semester NON-ABROAD*                | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| HUEN 3100 - Humanities for Engineers        | 3   | CSCI 3753 - Operating Systems                                   | 4   |
-|                                             |     | CSCI 4273 – Network Systems                                     | 4   |
-|                                             |     | xxxx 1000 - H/SS                                                | 3   |
-|                                             |     | xxxx 3000 - H/SS                                                | 3   |
+| HUEN 3100 - Humanities for Engineers        | 3   | CSCI CORE                                                       | 4   |
+|                                             |     | CSCI CORE                                                       | 3   |
+|                                             |     | *ASTR 1040*                                                     | 4   |
 |                                             |     | *BUSM 2020 - Finance/Accounting*                                | 3   |
-|                                             | 3   |                                                                 | 17  |
+|                                             |     |                                                                 |     |
+|                                             | 3   |                                                                 | 14  |
 
 |                Fall Semester                | Hrs |                         *Spring Semester ABROAD*                | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
@@ -75,7 +75,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
 | CSCI CORE - #5                              | 3   | CSCI CORE - #6                                                  | 4   |
 | CSCI Elective                               | 3   | CSCI Elective                                                   | 3   |
-| ASTR 1040 - Advanced Astronomy              | 4   | CSCI Elective                                                   | 3   |
+| *ASTR 1040 - Advanced Astronomy*            | 4   | CSCI Elective                                                   | 3   |
 | BUSM 3000 - Global Business                 | 3   | BUSM 4000 - Business Development Plan                           | 3   |
 |                                             | 17  |                                                                 | 17  |
 
