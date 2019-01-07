@@ -50,12 +50,12 @@ Personal coursework and schedule for University of Colorado Boulder
 
 |                Fall Semester                | Hrs |                         Spring Semester *@CU*                   | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
-| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI CORE                                                       | 4   |
-| CSCI 3010 – Programming Projects            | 3   | CSCI CORE                                                       | 3   |
+| CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3832 - Machine Translation                                 | 3   |
+| CSCI 3010 – Programming Projects            | 3   | CSCI 3287 - Data Systems                                        | 3   |
 | MATH 2130 - Linear Algebra                  | 3   | ASTR 1040 - Advanced Astronomy                                  | 4   |
 | ASTR 1030 - Intro to Astronomy              | 4   | BUSM 2020 - Finance/Accounting                                  | 3   |
 | *BUSM 2020 - Finance/Accounting*            | W   |                                                                 |     |
-|                                             | 14  |                                                                 | 14  |
+|                                             | 14  |                                                                 | 13  |
 
 ### 2019-2020
 |                Summer *ABROAD*              | Hrs |
