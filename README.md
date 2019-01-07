@@ -58,20 +58,20 @@ Personal coursework and schedule for University of Colorado Boulder
 |                                             | 14  |                                                                 | 13  |
 
 ### 2019-2020
-|                Summer *ABROAD*              | Hrs |
+|                Summer *ABROAD* JAPAN        | Hrs |
 |---------------------------------------------|:---:|
-| xxxx 1000 - H/SS                            | 3   |
-| xxxx 3000 - H/SS                            | 3   |               
+| ASIA 4930 - H/SS                            | 6   |
+|                                             |     |               
 |                                             | 6   |                          
 
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
-| CSCI CORE - #5                              | 3   | CSCI CORE - #6                                                  | 4   |
-| CSCI Elective                               | 3   | CSCI Elective                                                   | 3   |
-| BUSM 3000 - Global Business                 | 3   | CSCI Elective                                                   | 3   |
-|                                             |     | BUSM 4000 - Business Development Plan                           | 3   |
-|                                             | 13  |                                                                 | 17  |
+| CSCI CORE - #5                              | 3   | CSCI Elective                                                   | 3   |
+| CSCI CORE - #6                              | 3   | CSCI Elective                                                   | 3   |
+| BUSM 3000 - Global Business                 | 3   | BUSM 4000 - Business Development Plan                           | 3   |
+| CSCI Elective                               | 3   |                                                                 |     |
+|                                             | 16  |                                                                 | 13  |
 
 * **College Total**: 100
 * **HS Transfer Credits**: 22
