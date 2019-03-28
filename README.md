@@ -67,11 +67,11 @@ Personal coursework and schedule for University of Colorado Boulder
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
-| CSCI CORE - #5                              | 3   | CSCI Elective                                                   | 3   |
-| CSCI CORE - #6                              | 3   | CSCI Elective                                                   | 3   |
-| BUSM 3000 - Global Business                 | 3   | BUSM 4000 - Business Development Plan                           | 3   |
-| CSCI Elective                               | 3   |                                                                 |     |
-|                                             | 16  |                                                                 | 13  |
+| CSCI 3702 - Cognitive Science               | 3   | CSCI Elective                                                   | 3   |
+| CSCI 4622 - Machine Learning                | 3   | CSCI Elective                                                   | 3   |
+| BUSM 3010 - Managing Innovation             | 3   | BUSM 4000 - Business Development Plan                           | 3   |
+| CSCI 3112 - HCC Professional Development    | 1   | CSCI 3112 - HCC Professional Development                        | 1   |
+|                                             | 14  |                                                                 | 14  |
 
 * **College Total**: 100
 * **HS Transfer Credits**: 22
