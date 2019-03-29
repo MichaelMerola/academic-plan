@@ -70,7 +70,7 @@ Personal coursework and schedule for University of Colorado Boulder
 | CSCI 3702 - Cognitive Science               | 3   | CSCI Elective                                                   | 3   |
 | CSCI 4622 - Machine Learning                | 3   | CSCI Elective                                                   | 3   |
 | BUSM 3010 - Managing Innovation             | 3   | BUSM 4000 - Business Development Plan                           | 3   |
-| CSCI Elective                               | 3   |                                                                 | 0   |
+| CSCI 3202 - Intro to AI                     | 3   |                                                                 |     |
 |                                             | 16  |                                                                 | 13  |
 
 * **College Total**: 100
