@@ -100,13 +100,13 @@ All of the following courses are required:
 Six of the following courses are required:
 * [x] CSCI 3002-3, Human-Centered Computing Foundations/User-Centered Design & Development
 * [x] CSCI 3010-3, Programming Project Workshop
-* [ ] CSCI 3202-3, Introduction to Artificial Intelligence
-* [ ] CSCI 3702-3, Cognitive Science
+* [x] CSCI 3202-3, Introduction to Artificial Intelligence
+* [x] CSCI 3702-3, Cognitive Science
 * [ ] CSCI 3302-3, Introduction to Robotics
 * [ ] CSCI 3287-3, Design & Analysis of Data Systems
 * [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
 * [ ] CSCI 3753-4, Design & Analysis of Operating Systems
-* [ ] CSCI 4622-3, Machine Learning (theoretically will be offered as Core)
+* [x] CSCI 4622-3, Machine Learning (theoretically will be offered as Core)
 * [ ] CSCI 4229-3, Computer Graphics
 * [ ] CSCI 4239-3, Advanced Computer Graphics
 * [ ] CSCI 4253-3, Datacenter Scale Computing
@@ -146,7 +146,7 @@ Additional courses from the below list to bring the total number of computer sci
 
 Entrepreneurial Project (two semesters: beginning fall, ending spring):
 
-* [ ] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and 
+* [x] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and 
 * [ ] CSCI 4358-4, Entrepreneurial Projects 2
 
 This sequence must be taken contiguously and may not be taken before the senior year. Prerequisites for Senior Project include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours.  
