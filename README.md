@@ -48,7 +48,7 @@ Personal coursework and schedule for University of Colorado Boulder
 |---------------------------------------------|:---:|
 | HUEN 3100 - Humanities for Engineers        | 3   |
 
-|                Fall Semester                | Hrs |                         Spring Semester *@CU*                   | Hrs |
+|                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 3155 – Principles of Prog. Languages   | 4   | CSCI 3832 - Machine Translation                                 | 3   |
 | CSCI 3010 – Programming Projects            | 3   | CSCI 3287 - Data Systems                                        | 3   |
@@ -67,8 +67,8 @@ Personal coursework and schedule for University of Colorado Boulder
 |                Fall Semester                | Hrs |                         Spring Semester                         | Hrs |
 |---------------------------------------------|:---:|-----------------------------------------------------------------|:---:|
 | CSCI 4348 – Startup Essentials              | 4   | CSCI 4358 – Entrepreneurial Projects 2                          | 4   |
-| CSCI 3702 - Cognitive Science               | 3   | CSCI Elective                                                   | 3   |
-| CSCI 4622 - Machine Learning                | 3   | CSCI Elective                                                   | 3   |
+| CSCI 3702 - Cognitive Science               | 3   | CSCI 3302 - Intro to Robotics                                   | 3   |
+| CSCI 4622 - Machine Learning                | 3   | CSCI 4830 - Special Topics: Wearable Technology                 | 3   |
 | BUSM 3010 - Managing Innovation             | 3   | BUSM 4000 - Business Development Plan                           | 3   |
 | CSCI 3202 - Intro to AI                     | 3   |                                                                 |     |
 |                                             | 16  |                                                                 | 13  |
@@ -102,7 +102,7 @@ Six of the following courses are required:
 * [x] CSCI 3010-3, Programming Project Workshop
 * [x] CSCI 3202-3, Introduction to Artificial Intelligence
 * [x] CSCI 3702-3, Cognitive Science
-* [ ] CSCI 3302-3, Introduction to Robotics
+* [x] CSCI 3302-3, Introduction to Robotics
 * [ ] CSCI 3287-3, Design & Analysis of Data Systems
 * [ ] CSCI 3656-3, Numerical Computation or APPM 4650, Intermediate Numerical Analysis 1 (only one of these will count towards the CSEN-BS)
 * [ ] CSCI 3753-4, Design & Analysis of Operating Systems
@@ -134,7 +134,7 @@ Additional courses from the below list to bring the total number of computer sci
 * [ ] INFO 3504-3, Problems in Information Science: Digital Identity
 * [ ] ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
 * [ ] CSCI 3112-1, Human-Centered Computing Professional Development
-* [ ] CSCI 4830-3, Special Topics in Computer Science
+* [x] CSCI 4830-3, Special Topics in Computer Science
 * [ ] CSCI 4831-3 Special Topics in Algorithms
 * [ ] CSCI 4900-3, Upper Division, Undergraduate Independent Study
 * [ ] APPM 4120/MATH 4120-3, Introduction to Operations Research
@@ -147,7 +147,7 @@ Additional courses from the below list to bring the total number of computer sci
 Entrepreneurial Project (two semesters: beginning fall, ending spring):
 
 * [x] CSCI 4348-4, Startup Essentials: Entrepreneurial Projects 1 and 
-* [ ] CSCI 4358-4, Entrepreneurial Projects 2
+* [x] CSCI 4358-4, Entrepreneurial Projects 2
 
 This sequence must be taken contiguously and may not be taken before the senior year. Prerequisites for Senior Project include the successful completion of the college writing requirement, as well as the Computer Science Foundation (24 credit hours) plus Computer Science Core and Elective courses to reach a minimum of 36 Computer Science credit hours.  
 
@@ -213,4 +213,4 @@ Three credits of approved writing:
 Satisfying all the other course requirements as described above typically adds up to a minimum of 116 credit hours, the exact number depending on specific courses selected and/or transfer credit. Students take “free electives” to reach the required minimum 128 total credits. All courses are considered acceptable free electives; however, co-op work experience does not count towards these 128 hours, nor does any other work experience.
 
 ## Theoretical Standing
-If all goes according to plan, I'll graduate with a B.S. in Computer Science and a Minor in Business.
+All went according to plan, I graduated with a B.S. in Computer Science and a Minor in Business!
